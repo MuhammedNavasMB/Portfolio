@@ -7,3 +7,7 @@ Welcome to my portfolio repository! This collection highlights various projects 
 ## [FindMyAge](https://github.com/MuhammedNavasMB/FindMyAge)
 My first android application that calculates user's age based on some questions.
 
+## [DigitalCafe](https://github.com/MuhammedNavasMB/DigitalCafe)
+Android application which helps the user to order their food from the table using the android devices
+
+
